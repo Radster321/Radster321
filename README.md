@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Radster321
 - 👀 I’m interested in python development
 - 🌱 I’m currently learning python fundamentals 
-- 💞️ I’m looking to collaborate on nothing st the momment as I am on a learnign curve.
+- 💞️ I’m looking to collaborate on nothing at the momment as I am on a learning curve.
 - 📫 How to reach me ...
 - 😄 Pronouns: Hymn
 - ⚡ Fun fact: A crocodile cannot stick it tongue out. 
